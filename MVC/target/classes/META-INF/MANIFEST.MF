@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: onkar
+Build-Jdk: 21.0.6
+Implementation-Title: MVC
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: mypkg
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/MVC
+Created-By: Maven Integration for Eclipse
+
